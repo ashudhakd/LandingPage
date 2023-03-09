@@ -1,0 +1,109 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+.hero-section {
+    
+   
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 0rem 1rem;
+    height: 35vh;
+    background: url(https://m.media-amazon.com/images/S/stores-image-uploads-eu-prod/0/AmazonStores/A21TJRUUN4KGV/5b5903089604cdd946861bdc35c2ac13.w1500.h300._CR0%2C0%2C1500%2C300_SX1500_.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+
+}
+
+.column {
+   
+    float: left;
+    width: 50%;
+    padding: 8px;
+    
+    
+    
+}
+
+.image_caption {
+    padding: 0.45em;
+    right: auto;
+    top: 40px;
+    left: -5px;
+    background: #000;
+    margin: 15px;
+    color: aliceblue;
+    position: relative;
+   
+    
+
+}
+
+.row{
+    margin: 1px;
+}
+
+.share1{
+    text-align: center;
+    font-style:oblique;
+    position: relative;
+}
+.share2{
+    text-align: center;
+    margin-top: 9px;
+    margin-bottom: 5px;
+}
+.fa {
+    padding: 10px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+.fa:hover {
+    opacity: 0.7;
+  }
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+    height: 48px;
+  }
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+    height: 48px;
+  }
+  .fa-pinterest {
+    background: #cb2027;
+    color: white;
+    height: 48px;
+  }
+  .social{
+    display: block;
+    text-align: center;
+    height: 10px;
+    margin-top: 30px;
+    margin-bottom: 100px;
+    
+  }
+
+  .foot{
+    margin-top: 50px;
+  }
+
+  
